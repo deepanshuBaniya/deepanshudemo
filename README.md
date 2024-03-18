@@ -1,3 +1,3 @@
 # deepanshudemo
 this is for learning
-author = deepanshu
+author = deepanshu kumar
